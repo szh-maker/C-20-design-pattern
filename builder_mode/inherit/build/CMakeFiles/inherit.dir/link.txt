@@ -1,3 +1,0 @@
-D:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\inherit.dir/objects.a
-D:\mingw64\bin\ar.exe qc CMakeFiles\inherit.dir/objects.a @CMakeFiles\inherit.dir\objects1.rsp
-D:\mingw64\bin\c++.exe -Wl,--whole-archive CMakeFiles\inherit.dir/objects.a -Wl,--no-whole-archive -o inherit.exe -Wl,--out-implib,libinherit.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\inherit.dir\linkLibs.rsp
